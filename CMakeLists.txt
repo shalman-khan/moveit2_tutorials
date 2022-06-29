@@ -81,6 +81,13 @@ add_subdirectory(doc/examples/moveit_cpp)
 # add_subdirectory(doc/examples/visualizing_collisions)
 # add_subdirectory(doc/examples/bullet_collision_checker)
 add_subdirectory(doc/examples/realtime_servo)
+<<<<<<< HEAD
+=======
+add_subdirectory(doc/how_to_guides/using_ompl_constrained_planning)
+add_subdirectory(doc/examples/robot_model_and_robot_state)
+add_subdirectory(doc/tutorials/pick_and_place_with_moveit_task_constructor)
+add_subdirectory(doc/tutorials/quickstart_in_rviz)
+>>>>>>> 2db5773 (Add tutorial for How to Use OMPL Constrained Planning (#386))
 
 ament_export_dependencies(
   ${THIS_PACKAGE_INCLUDE_DEPENDS}

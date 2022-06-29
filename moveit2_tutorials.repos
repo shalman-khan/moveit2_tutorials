@@ -23,7 +23,13 @@ repositories:
     type: git
     url: https://github.com/PickNikRobotics/rosparam_shortcuts
     version: ros2
+<<<<<<< HEAD
   srdfdom:
     type: git
     url: https://github.com/ros-planning/srdfdom.git
+=======
+  rviz_visual_tools:
+    type: git
+    url: https://github.com/PickNikRobotics/rviz_visual_tools.git
+>>>>>>> 2db5773 (Add tutorial for How to Use OMPL Constrained Planning (#386))
     version: ros2
